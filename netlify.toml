@@ -1,0 +1,9 @@
+[build]
+  publish = "_site"
+  command = "DEBUG=* eleventy"
+
+[[redirects]]
+  from = "https://www.harryvos.co.uk"
+  to = "https://www.harryvos.com"
+  status = 301
+  force = true
