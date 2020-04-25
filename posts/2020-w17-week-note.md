@@ -63,7 +63,7 @@ With lots of help from [Rahma](https://twitter.com/RahmaJM1), [Clara](https://tw
 
 ## Policy working with delivery in government
 
-There's great work happening to support people affected by coronavirus. I’ve also seen an increase in collaboration in other areas too. I saw [a Whitehall policymaker pro-actively join a local government data show and tell](https://twitter.com/vosageroll/status/1253697483185717254). This was a first in my three years in the Civil Service. Not only were they interested in their work, they asked great questions. “What are the policy blockers to making better use of data in local planning?” I've been trying to get policy working better with delivery for years. I was over the moon to see this.
+There's great work happening to support people affected by coronavirus. I’ve also seen an increase in collaboration in other areas. I saw [a Whitehall policymaker pro-actively join a local government data show and tell](https://twitter.com/vosageroll/status/1253697483185717254). This was a first in my three years in the Civil Service. Not only were they interested in their work, they asked great questions. “What are the policy blockers to making better use of data in local planning?” I've been trying to get policy working better with delivery for years. I was over the moon to see this.
 
 ## Form of the week
 
