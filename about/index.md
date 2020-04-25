@@ -1,19 +1,13 @@
 ---
 layout: layouts/about.njk
-title: About me
+title: About
 tags:
   - nav
 navtitle: About
 ---
 ![Portrait of Harry Vos, 2019](/img/harry-vos-portrait-2019.jpg#about-img "harry-vos-portrait-2019")
 
-I help organisations improve the quality of their services, and decrease the cost of providing them. I use service design and product management skills to find out the real problems of users and organisations, and get people to prioritise fixing them.
-
-I'm a lead designer, working in London at the [Government Digital Service](https://gds.blog.gov.uk/). In 2017, I set up a team helping civil servants across government to assess the impact of Brexit on public services. We give them greater context around their projects, to help organisations make better decisions about keeping services running.
-
-I used to be a strategy consultant at [Fjord](https://www.fjordnet.com/) and [Hiveworks](https://www.hiveworks.com/). I was also a product consultant at [EY-Seren](https://www.ey-seren.com/). When I have some free time, I advise the [Service Design Fringe Festival](https://www.sd-ldf.com/).
-
-### How I ended up here
+## How I ended up here
 
 I always wanted to be an architect when I was younger, but I didn't get into my chosen school. I ended up studying industrial design, and quickly realised I didn't care much for radiuses or chamfers of products.
 
@@ -27,9 +21,17 @@ I now see myself as having these two skillsets that I can apply, depending on th
 
 ## Experience
 
-### Lead Designer for the Digital Commercial Programme, Crown Commercial Service and Government Digital Service
+### Senior Product Manager, GovTech Catalyst, Government Digital Service
 
-May 2019 - Current
+April 2020 - current
+
+### Product Manager, Service Design and Assurance, Government Digital Service
+
+January 2020 - April 2020
+
+### Senior Service Designer, Digital Commercial Programme, Crown Commercial Service and Government Digital Service
+
+May 2019 - December 2019
 
 Leading design across the programme, looking to make digital procurement platforms less costly to manage, and more scalable. Leading design for an Alpha, looking to test assumptions around scaling digital procurement across all current and future frameworks provided by the Crown Commercial Service.
 
@@ -125,4 +127,4 @@ One of six shortlisted students for the Airbnb-sponsored "Fair Share" brief. My 
 
 The brief was a single word, "curiosity". My entry, "The Udder" was a water-saving attachment for kitchen taps that adds a bit of fun to washing up, and helps get children to do their chores.
 
-Last updated: 19.05.2019
+Last updated: 2020-04-25
