@@ -1,6 +1,6 @@
 ---
 title: Harry Vos
-description: Service Designer working in London at the Government Digital Service.
+description: Product manager working in London at the Government Digital Service.
 date: 2020-04-25
 tags:
 - index
