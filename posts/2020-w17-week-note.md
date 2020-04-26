@@ -67,7 +67,9 @@ There's great work happening to support people affected by coronavirus. I’ve a
 
 ## Form of the week
 
-Email No Emails.
+I stumbled upon this beauty doing some online shopping. I'm not sure if this will be a recurring feature in the week note, but I wanted to share this one 🤠
+
+"Email No Emails"
 
 ![Header "Notifications", label "Email No Emails", checkbox](/img/email_no_emails.png "email_no_emails")
 
@@ -80,6 +82,7 @@ Writing clearly and quickly
 Reading people’s emotions remotely while not being on endless video calls
 
 ## Next week
+
 Starting my final term of basic Danish classes at uni 🇩🇰
 
 Helping the team with the last of our end of phase supplier check-ins. Go Waltham Forest Council! 💪🏼
