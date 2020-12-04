@@ -1,3 +1,4 @@
+/* Globals */
 :root {
   --red: #C5004A;
   --darkred: #7F0036;
@@ -8,18 +9,56 @@
   --blue: #082840;
   --white: #fff;
 }
+
+body {
+  background: var(--white);
+  color: var(--darkgrey);
+  padding: 0;
+  line-height: 1.5;
+  max-width: 60rem;
+  font-family: sans-serif;
+  margin: auto;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+  max-width: 35ch;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+/* More info: https://piccalil.li/quick-tip/limit-line-lengths-to-increase-readability/ */
+p,
+li,
+dl {
+  max-width: 60rem;
+}
+
+main {
+  padding: 1rem;
+  max-width: 37.5em; /* 600px /16 */
+}
+main :first-child {
+  margin-top: 0;
+}
+
 * {
   box-sizing: border-box;
 }
-html,
-body {
-  padding: 0;
-  font-family: sans-serif;
-  color: var(--darkgrey);
-  background-color: var(--white);
-  max-width: 60rem;
-  margin: auto;
-}
+
 p:last-child {
   margin-bottom: 0;
 }
@@ -29,54 +68,17 @@ img {
   width: 100%;
   height: auto;
 }
-p,
-.tmpl-post li {
-  line-height: 1.45;
-}
 a[href] {
   color: var(--blue);
 }
 a[href]:visited {
   color: var(--navy);
 }
-main {
-  padding: 1rem;
-  max-width: 37.5em; /* 600px /16 */
-}
-main :first-child {
-  margin-top: 0;
-}
-header {
 
-}
 header:after {
   content: "";
   display: table;
   clear: both;
-}
-pre,
-code {
-  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
-  line-height: 1.5;
-}
-pre {
-  font-size: 14px;
-  line-height: 1.375;
-  direction: ltr;
-  text-align: left;
-  white-space: pre;
-  word-spacing: normal;
-  word-break: normal;
-  -moz-tab-size: 2;
-  -o-tab-size: 2;
-  tab-size: 2;
-  -webkit-hyphens: none;
-  -moz-hyphens: none;
-  -ms-hyphens: none;
-  hyphens: none;
-  padding: 1em;
-  margin: .5em 0;
-  background-color: #f6f6f6;
 }
 
 .highlight-line {
@@ -84,6 +86,19 @@ pre {
   padding: 0.125em 1em;
   text-decoration: none; /* override del, ins, mark defaults */
   color: inherit; /* override del, ins, mark defaults */
+}
+
+/* stretch image utility */
+
+@media screen and (max-width: 600px) {
+  .full-width-image-container {
+    overflow-x: scroll;
+  }
+}
+
+.full-width-image {
+  display: block;
+  width: 900px;
 }
 
 /* allow highlighting empty lines */
@@ -138,7 +153,7 @@ pre {
 
 }
 
-/* Posts list */
+/* Posts list (automatic) */
 .postlist {
   list-style: none;
   padding: 0;
