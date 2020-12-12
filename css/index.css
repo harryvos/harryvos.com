@@ -1,4 +1,4 @@
-/* Globals */
+/* Global */
 :root {
   --red: #C5004A;
   --darkred: #7F0036;
@@ -81,6 +81,41 @@ header:after {
   clear: both;
 }
 
+/* Good bad policy service table */
+table,
+th,
+tr
+td {
+  border-collapse: collapse;
+  text-align: inherit;
+  padding: 2% 8% 2% 2%;
+}
+
+table {
+  width: 100%;
+}
+
+tr:first-of-type {
+  border-bottom: solid;
+}
+
+tr:last-of-type {
+  border-top: solid;
+}
+
+th:first-of-type {
+  border-right: solid;
+}
+
+td {
+  border-left: solid;
+}
+
+tr td:first-of-type {
+  border-left: none;
+  border-right: solid;
+}
+
 .highlight-line {
   display: block;
   padding: 0.125em 1em;
@@ -89,7 +124,6 @@ header:after {
 }
 
 /* stretch image utility */
-
 @media screen and (max-width: 600px) {
   .full-width-image-container {
     overflow-x: scroll;
