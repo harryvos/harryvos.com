@@ -1,10 +1,12 @@
 ---
-layout: layouts/about.njk
+layout: layouts/post.njk
 title: About
-tags:
-  - nav
-navtitle: About
+templateClass: tmpl-post
+eleventyNavigation:
+  key: About
+  order: 3
 ---
+
 ![Portrait of Harry Vos, 2019](/img/harry-vos-portrait-2019.jpg#about-img "harry-vos-portrait-2019")
 
 ## How I ended up here
