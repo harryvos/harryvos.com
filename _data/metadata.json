@@ -3,7 +3,7 @@
   "url": "https://harryvos.com/",
   "description": "Personal website",
   "feed": {
-    "subtitle": "Copenhagen-based product manager",
+    "subtitle": "London-based product manager",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://harryvos.com/feed/feed.xml",
