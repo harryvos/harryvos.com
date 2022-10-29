@@ -2,8 +2,6 @@
 title: Harry Vos
 description: Product manager working in London at the Government Digital Service.
 date: 2020-04-25
-tags:
-- index
 layout: layouts/home.njk
 ---
 I help organisations improve the quality of their services, and decrease the cost of providing them. I use service design and product management skills to find out the real problems of users and organisations, and get people to prioritise fixing them.

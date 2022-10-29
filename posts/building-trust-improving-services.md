@@ -3,6 +3,7 @@ title: Building trust to improve services
 description: Learning how to build trust to help recommendations get heard
 date: 2019-05-27
 tags:
+- posts
 - Leadership
 layout: layouts/post.njk
 ---
