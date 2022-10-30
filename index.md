@@ -1,6 +1,6 @@
 ---
 title: Harry Vos
-description: Product manager working in London at the Government Digital Service.
+description: Product manager working in Copenhagen.
 date: 2020-04-25
 tags:
 - index
