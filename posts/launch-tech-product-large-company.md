@@ -5,6 +5,7 @@ date: 2022-10-30
 tags:
 - post
 layout: layouts/post.njk
+canonical: "https://www.harryvos.com/posts/launch-tech-product-large-company/"
 ---
 
 ![GOV.UK Forms marketing site "Create online forms for GOV.UK"](/img/govuk-forms-desk.jpeg "GOV․UK Forms marketing site")
