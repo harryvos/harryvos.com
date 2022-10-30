@@ -1,15 +1,17 @@
 {
   "title": "Harry Vos",
   "url": "https://harryvos.com/",
+  "language": "en",
   "description": "Personal website",
   "feed": {
-    "subtitle": "London-based product manager",
+    "subtitle": "Copenhagen-based product manager",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://harryvos.com/feed/feed.xml",
     "id": "https://harryvos.com/"
   },
   "author": {
-    "name": "Harry Vos"
+    "name": "Harry Vos",
+    "url": "https://harryvos.com/about/"
   }
 }
