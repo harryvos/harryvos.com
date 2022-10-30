@@ -5,6 +5,7 @@ date: 2020-04-25
 tags:
 - index
 layout: layouts/home.njk
+canonical: "https://www.harryvos.com/"
 ---
 I help organisations improve the quality of their services, and decrease the cost of providing them. I use service design and product management skills to find out the real problems of users and organisations, and get people to prioritise fixing them.
 
