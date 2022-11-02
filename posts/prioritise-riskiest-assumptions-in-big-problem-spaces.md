@@ -53,41 +53,29 @@ How to do it:
 
 I’ve given a simple example below, with a throwback to a 2004 design icon – the Motorola Razr mobile phone. The overwhelming sense of nostalgia should help the method feel less intimidating. Imagine our team are trying to figure out how to make the next smash hit smartphone…
 
-Markdown table
+**Assumption that people would buy a folding smartphone**
 
-| Assumption | Consequence if wrong | Existing knowledge to mitigate risk | Impact if wrong | Confidence we know the answer | Risk score |
-|---|---|---|---|---|---|
-| People would buy a folding smartphone | We lose money on our investment | The 2004 Motorola Razr was popular | 8 | 4 | 48 |
-| We can produce folding glass screens | We don’t have a unique selling point | We have low-resolution prototypes | 7 | 2 | 56 |
+Consequence if wrong: We lose money on our investment
 
-HTML table
+Existing knowledge to mitigate risk: The 2004 Motorola Razr was popular
 
-<table>
-  <tr>
-    <th scope="col">Assumption</th>
-    <th scope="col">Consequence if wrong</th>
-    <th scope="col">Existing knowledge to mitigate risk</th>
-    <th scope="col">Impact if wrong</th>
-    <th scope="col">Confidence we know the answer</th>
-    <th scope="col">Risk score</th>
-  </tr>
-  <tr>
-    <td>People would buy a folding smartphone</td>
-    <td>We lose money on our investment</td>
-    <td>The 2004 Motorola Razr was popular</td>
-    <td>8</td>
-    <td>4</td>
-    <td>48</td>
-  </tr>
-  <tr>
-    <td>We can produce folding glass screens</td>
-    <td>We don’t have a unique selling point</td>
-    <td>We have low-resolution prototypes</td>
-    <td>7</td>
-    <td>2</td>
-    <td>56</td>
-  </tr>
-</table>
+Impact if wrong: 8
+
+Confidence we know the answer: 4
+
+Risk score: 48
+
+**Assumption that we can produce folding glass screens**
+
+Consequence if wrong: We don’t have a unique selling point
+
+Existing knowledge to mitigate risk: We have low-resolution prototypes
+
+Impact if wrong: 7
+
+Confidence we know the answer: 2
+
+Risk score: 56
 
 If you’re reading the example, thinking, “no way is that a 4!”, perfect. You know something that I don’t. You can imagine our team discussing how popular the Motorola Razr was. We’d debate how similar our folding smartphone is.
 
