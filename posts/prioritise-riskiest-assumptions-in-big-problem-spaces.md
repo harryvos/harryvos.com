@@ -1,6 +1,6 @@
 ---
 title: Prioritise the riskiest assumptions in big problem spaces
-description: We can navigate big problem spaces by prioritising our assumptions by their risk, then testing them.I’m sharing how you can use this method with your teams.
+description: We can navigate big problem spaces by prioritising our assumptions by their risk, then testing them. I’m sharing how you can use this method with your teams.
 date: 2022-11-03
 image: /img/assumptions-cards.jpg
 tags:
