@@ -1,14 +1,12 @@
 ---
 title: Prioritise the riskiest assumptions in big problem spaces
-description: X
+description: We often fail to test the things we’re uncertain about and instead spend a disproportionate amount of time on the things that are givens. We can avoid this by prioritising our assumptions by their risk, then testing them. In this blog post, I’m sharing how you can use this method with your teams.
 date: 2022-11-03
 tags:
 - post
 layout: layouts/post.njk
 canonical: "https://services.blog.gov.uk/2022/11/03/prioritise-the-riskiest-assumptions-in-big-problem-spaces/"
 ---
-
-<!-- CHECK CANONICAL LINK BEFORE PUBLISHING -->
 
 ![Numerous small pieces of white paper with an assumption typed on each one arranged in columns on a large piece of brown paper on a wall](/img/assumptions-cards.jpg "Assumptions cards")
 
@@ -108,7 +106,5 @@ To help me write better posts, I’d love to get your feedback. If you found thi
 Photo on screen: [Some rights reserved](https://creativecommons.org/licenses/by/2.0/) by [Jorge Franganillo](https://www.flickr.com/photos/franganillo/).
 
 I’ve recently moved to Copenhagen, Denmark. I'm looking for my next product management role with opportunities for social or environmental impact. If you’re interested, please [connect](https://www.linkedin.com/in/harryjvos/) and let’s get kaffe!
-
-<!-- CHECK LINK BEFORE PUBLISHING -->
 
 Originally published on [GOV.UK: Services in Government Blog](https://services.blog.gov.uk/2022/11/03/prioritise-the-riskiest-assumptions-in-big-problem-spaces/).
