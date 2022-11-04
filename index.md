@@ -1,16 +1,20 @@
 ---
 title: Harry Vos
-description: Product manager working in Copenhagen.
-date: 2020-04-25
+description: Experienced product manager in Copenhagen.
+date: 2022-11-04
 tags:
 - index
 layout: layouts/home.njk
 canonical: "https://www.harryvos.com/"
 ---
-I help organisations improve the quality of their services, and decrease the cost of providing them. I use service design and product management skills to find out the real problems of users and organisations, and get people to prioritise fixing them.
+I'm an experienced product manager in Copenhagen 🇩🇰
 
-I'm a senior product manager, working in London at the [Government Digital Service](https://gds.blog.gov.uk/). In 2017, I set up a team helping civil servants across government to assess the impact of Brexit on public services. We give them greater context around their projects, to help organisations make better decisions about keeping services running.
+I help organisations create effective products, built for their customers. I like building products for environmental or social impact.
 
-I used to be a strategy consultant at [Fjord](https://www.fjordnet.com/) and [Hiveworks](https://www.hiveworks.com/). I was also a product consultant at [EY-Seren](https://www.ey-seren.com/). When I have some free time, I advise the [Service Design Fringe Festival](https://www.sd-ldf.com/).
+In the UK government, I launched [GOV.UK Forms](https://www.forms.service.gov.uk/), coached GovTech startups on product management, and helped keep services running after Brexit.
 
-Last updated: 2020-04-25
+I care about how teams work as much as what teams build. To improve equity in product and design communities, I helped grow a mentoring programme for people from underrepresented groups, benchmarked community demographics and made community sessions more inclusive.
+
+Previously, as a consultant, I advised executives across different sectors on product, digital transformation, customer experience and service design. I worked with EY and Accenture, as well as smaller agencies in London.
+
+Last updated: 2022-11-04
