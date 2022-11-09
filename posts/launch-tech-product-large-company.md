@@ -1,7 +1,8 @@
 ---
 title: How to launch a tech product in a large company
-description: Last month, GOV․UK Forms launched. After two years of product challenges, I’m sharing four of my top tips for people working in large companies with less experience in launching tech products, people curious about product management and people trying to find out what it means to put customers at the centre.
+description: Last month, GOV․UK Forms launched. After two years of product challenges, I’m sharing four of my top tips for people new to or curious about product management.
 date: 2022-10-30
+image: /img/govuk-forms-desk.jpeg
 tags:
 - post
 layout: layouts/post.njk
