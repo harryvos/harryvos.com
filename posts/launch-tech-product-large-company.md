@@ -94,7 +94,7 @@ If you don’t already have a designer in your team, you definitely need one at 
 
 You might get lucky, but you should expect to struggle with the blend of roles and skills in the team. In a growing company, you can improve this by moving people in and out of the team. However, in a static or shrinking company, you can end up with a shortage of some skills and a surplus of others. It’s always hard to know exactly what skills you’ll need for experiments, many of which you don’t yet know you need to test.
 
-Before you get carried away with building a product, you need to understand what the product might need to do. How will it solve the customers’ problems? In my experience, it's useful to test your riskiest assumptions (my next post about how to do this is coming soon). Doing this helps you to focus on experiments that really matter to the success of your product.
+Before you get carried away with building a product, you need to understand what the product might need to do. How will it solve the customers’ problems? In my experience, it's useful to [test your riskiest assumptions](/posts/prioritise-riskiest-assumptions-in-big-problem-spaces). Doing this helps you to focus on experiments that really matter to the success of your product.
 
 Before we started building GOV․UK Forms, we tested our riskiest assumptions, such as:
 
