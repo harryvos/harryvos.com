@@ -84,6 +84,10 @@ main li {
   padding-bottom: 1em;
 }
 
+main li:last-child {
+  padding-bottom: 0;
+}
+
 header:after {
   content: "";
   display: table;
