@@ -1,7 +1,8 @@
 ---
 title: Prioritise the riskiest assumptions in big problem spaces
-description: We often fail to test the things we’re uncertain about and instead spend a disproportionate amount of time on the things that are givens. We can avoid this by prioritising our assumptions by their risk, then testing them. In this blog post, I’m sharing how you can use this method with your teams.
+description: We can navigate big problem spaces by prioritising our assumptions by their risk, then testing them. I’m sharing how you can use this method with your teams.
 date: 2022-11-03
+image: /img/assumptions-cards.jpg
 tags:
 - post
 layout: layouts/post.njk
