@@ -1,30 +1,28 @@
 ---
-layout: layouts/home.njk
 tags:
-  - nav
+- nav
+layout: layouts/base.njk
 navtitle: Blog
 permalink: /blog/
+eleventyNavigation:
+  key: Blog
+  order: 2
 ---
 
 <h1>Blog</h1>
 
-<p>
-<ol list-style-type="decimal-leading-zero" reversed>
-  <li style="margin-left:-20px;padding:10px"><a href="/posts/product-managers-reduce-co2/">What product managers can do to reduce CO²</a></li>
-  <li style="margin-left:-20px;padding:10px"><a href="/posts/prioritise-riskiest-assumptions-in-big-problem-spaces/">Prioritise the riskiest assumptions in big problem spaces</a></li>
-  <li style="margin-left:-20px;padding:10px"><a href="/posts/launch-tech-product-large-company/">How to launch a tech product in a large company</a></li>
-  <li style="margin-left:-20px;padding:10px"><a href="https://gds.blog.gov.uk/2021/11/17/why-we-think-online-html-forms-are-usually-better-than-document-based-forms-in-government/" target="_blank" rel="noopener noreferrer">Government Digital Service Blog: 
-Why we think online HTML forms are usually better than document-based forms in government</a> (Opens in new tab)</li>
-  <li style="margin-left:-20px;padding:10px"><a href="https://gds.blog.gov.uk/2021/09/28/podcast-collecting-information-from-users/" target="_blank" rel="noopener noreferrer">Government Digital Service Podcast: Collecting information from users</a> (Opens in new tab)</li>
-  <li style="margin-left:-20px;padding:10px"><a href="https://xgovformbuilder.github.io/x-gov-form-community/2021-GDS-discovery/" target="_blank" rel="noopener noreferrer">Sprint updates: Government Digital Service discovery to learn about collecting information from users</a> (Opens in new tab)</li>
-  <li style="margin-left:-20px;padding:10px"><a href="/posts/good-bad-policy-services/">Good services can support bad policies, and bad services can support good policies. It's messy</a></li>
-  <li style="margin-left:-20px;padding:10px"><a href="/posts/humility-digital-policy/">Digital people trying to influence policy — be humble or eat humble pie</a></li>
-  <li style="margin-left:-20px;padding:10px"><a href="/posts/2020-w17-week-note/">2020-W17 week note. First attempt at a week note</a></li>
-  <li style="margin-left:-20px;padding:10px"><a href="/posts/building-trust-improving-services/">Building trust to improve services</a></li>
-  <li style="margin-left:-20px;padding:10px"><a href="/posts/digital-procurement-sketches/">Sketches for scaling digital public sector procurement</a></li>
-  <li style="margin-left:-20px;padding:10px"><a href="/posts/simplifying-managing-land/">Collaborating across organisational boundaries to simplify managing land</a></li>
-  <li style="margin-left:-20px;padding:10px"><a href="/posts/improving-support/">Improving GDS support for teams with lower digital capability</a></li>
-</ol>
-</p>
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}
 
 <p>Blog posts do not reflect the views of my employers.</p>
+
+<h2>Published elsewhere</h2>
+
+<p>
+<ol class="postlist">
+  <li><a class="postlist-link" href="https://gds.blog.gov.uk/2021/11/17/why-we-think-online-html-forms-are-usually-better-than-document-based-forms-in-government/" target="_blank" rel="noopener noreferrer">Government Digital Service Blog: 
+Why we think online HTML forms are usually better than document-based forms in government</a> (Opens in new tab)<p class="postlist-date"><time datetime="2021-11-17">17 November 2021</time></p></li>
+  <li><a class="postlist-link" href="https://gds.blog.gov.uk/2021/09/28/podcast-collecting-information-from-users/" target="_blank" rel="noopener noreferrer">Government Digital Service Podcast: Collecting information from users</a> (Opens in new tab)<p class="postlist-date"><time datetime="2021-09-28">28 September 2021</time></p></li>
+  <li><a class="postlist-link" href="https://xgovformbuilder.github.io/x-gov-form-community/2021-GDS-discovery/" target="_blank" rel="noopener noreferrer">Sprint updates: Government Digital Service discovery to learn about collecting information from users</a> (Opens in new tab)<p class="postlist-date"><time datetime="2021-01-15">15 January 2021</time></p></li>
+</ol>
+</p>

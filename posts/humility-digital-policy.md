@@ -3,6 +3,7 @@ title: Digital people trying to influence policy — be humble or eat humble p
 description: Service failure contributes to failure in the system we live in, but there are many other contributors. Recognising this helps digital specialists to work more humbly with policy makers
 date: 2020-12-04
 tags:
+- posts
 - Collaboration
 - Sketching
 - Policy

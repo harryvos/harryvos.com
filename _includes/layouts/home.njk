@@ -1,5 +1,15 @@
 ---
 layout: layouts/base.njk
-templateClass: tmpl-home
+eleventyNavigation:
+  key: Home
+  order: 1
 ---
 {{ content | safe }}
+
+<h2>Latest {% if maxPosts == 1 %}post{% else %}{{ maxPosts }} posts{% endif %}</h2>
+
+{% set postslist = collections.posts | head(-3) %}
+{% set postslistCounter = collections.posts | length %}
+{% include "postslist.njk" %}
+
+<p><a href="{{ '/blog/' | url }}">More posts</a></p>

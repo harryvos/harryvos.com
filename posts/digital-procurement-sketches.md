@@ -3,6 +3,7 @@ title: Sketches for scaling digital public sector procurement
 description: I've been sketching out an assumption that we should test.
 date: 2019-05-20
 tags:
+- posts
 - Sketching
 layout: layouts/post.njk
 ---

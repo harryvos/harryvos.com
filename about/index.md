@@ -1,10 +1,14 @@
 ---
-layout: layouts/about.njk
-title: About
 tags:
-  - nav
-navtitle: About
+- nav
+layout: layouts/base.njk
+title: About
+templateClass: tmpl-post
+eleventyNavigation:
+  key: About
+  order: 3
 ---
+
 ![Portrait of Harry Vos, 2019](/img/harry-vos-portrait-2019.jpg#about-img "harry-vos-portrait-2019")
 
 ## Experience

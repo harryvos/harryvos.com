@@ -3,6 +3,7 @@ title: 2020-W17 week note. First attempt at a week note
 description: Trying to write more, being in Devon, being a carer, changing teams, mentoring, and policy and delivery collaboration
 date: 2020-04-25
 tags:
+- posts
 - Week notes
 layout: layouts/post.njk
 ---

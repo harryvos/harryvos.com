@@ -4,6 +4,20 @@ templateClass: tmpl-post
 ---
 <h1>{{ title }}</h1>
 
+<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+{%- for tag in tags | filterTagList %}
+{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+<a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+{%- endfor %}
+
 {{ content | safe }}
 
-<p><a href="{{ '/' | url }}">← Home</a></p>
+{%- if collections.posts %}
+{%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+{%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+{%- if nextPost or previousPost %}
+<hr>
+{%- if nextPost %}<p>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></p>{% endif %}
+{%- if previousPost %}<p>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></p>{% endif %}
+{%- endif %}
+{%- endif %}
