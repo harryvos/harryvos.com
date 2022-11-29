@@ -76,6 +76,8 @@ We used the prioritised riskiest assumptions to inform our alpha phase backlog. 
 
 I’m still learning about this method and tweak it each time I use it. I’d be curious to know how other people are finding it? Please leave a comment on social media if you want to share your reflections.
 
+A previous post might be of interest if you want to [learn how to use the method](/posts/prioritise-riskiest-assumptions-in-big-problem-spaces/).
+
 ## Sharing
 
 To help me write better posts, I’d love to get your feedback. If you found this useful, please repost to share it with your network.
