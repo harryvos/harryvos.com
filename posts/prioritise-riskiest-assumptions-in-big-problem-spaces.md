@@ -15,7 +15,7 @@ We often fail to test the things we’re uncertain about and instead spend a dis
 
 In this blog post, I’m sharing how you can use this method with your teams. Plus, you’ll get to make your prioritisation more like being a judge on a reality TV show, Strictly Come Dancing-style. This is way more fun than any effort-and-impact priority matrix.
 
-This is the first of two blog posts. The second blog post will be about the value of testing riskiest assumptions and will be published soon. It will discuss the benefits of using the method, with some examples of when it’s been valuable.
+This is the first of two blog posts. The second blog post is about [the value of testing riskiest assumptions](/posts/value-of-testing-riskiest-assumptions/). It discusses the benefits of using the method, with some examples of when it’s been valuable.
 
 ## Why it’s important
 
@@ -89,6 +89,7 @@ Our team now has a list of assumptions, prioritised by risk. Now we can agree as
 
 ## Further reading
 
+- [The value of testing riskiest assumptions](/posts/value-of-testing-riskiest-assumptions/) by me
 - [The MVP is dead. Long live the RAT](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02) by Rik Higham was my first introduction to using the method
 - [Assumption Surfacing](https://www.mycoted.com/Assumption_Surfacing) by Mycoted is a good way to look at the risk of decisions already made
 
