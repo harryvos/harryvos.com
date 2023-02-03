@@ -92,7 +92,7 @@ Once you’ve blogged about the results and what you’re going to do about it, 
 
 [Adam Robertson is on LinkedIn](https://www.linkedin.com/in/robertsonadam31/)
 
-[Martin Lugton is on Twitter](https://twitter.com/martinlugton)
+[Martin Lugton is on LinkedIn](https://uk.linkedin.com/in/martin-lugton)
 
 ## In Copenhagen? Harry is looking for work
 
