@@ -94,7 +94,7 @@ Once you’ve blogged about the results and what you’re going to do about it, 
 
 [Martin Lugton is on LinkedIn](https://uk.linkedin.com/in/martin-lugton)
 
-## In Copenhagen? Harry is looking for work
+## In Copenhagen? Harry is looking for work
 
 ![Photo of Nyhavn, Copenhagen, with sticky notes on buildings reading, "environmental impact, product management and social impact"​](/img/copenhagen-interests.jpeg "Harry's interests in Copenhagen")
 
