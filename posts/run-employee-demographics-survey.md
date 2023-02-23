@@ -94,6 +94,10 @@ Once you’ve blogged about the results and what you’re going to do about it, 
 
 [Martin Lugton is on LinkedIn](https://uk.linkedin.com/in/martin-lugton)
 
+## Learn more about equitable recruitment
+
+Clara Greo recently shared her [recruitment advice on a podcast](https://dfedigital.blog.gov.uk/2023/02/21/podcast-2-ep-5/) with the UK Department for Education. Give it a listen!
+
 ## In Copenhagen? Harry is looking for work
 
 ![Photo of Nyhavn, Copenhagen, with sticky notes on buildings reading, "environmental impact, product management and social impact"​](/img/copenhagen-interests.jpeg "Harry's interests in Copenhagen")
