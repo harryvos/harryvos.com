@@ -77,7 +77,7 @@ For a smaller organisation it might be simple to switch to a more sustainable pr
 
 ## Share potential CO₂ savings to grow product sales
 
-There's a growing number of ethical consumers and businesses. Showing reduced CO₂ emissions could help to grow your sales or increase conversion. For example, [Organic Basics show how their products’ CO₂ emissions compare to similar products](https://organicbasics.com/pages/impact-index).
+There's a growing number of ethical consumers and businesses. Showing reduced CO₂ emissions could help to grow your sales or increase conversion. For example, [Organic Basics show each products’ CO₂ emissions](https://organicbasics.com/pages/impact-index) that they offset.
 
 Though you should think carefully about what you compare your product to. Don't brag about emitting less CO₂, if you’re still far off zero emissions. Otherwise, you’re probably [greenwashing](https://en.wikipedia.org/wiki/Greenwashing).
 
