@@ -37,7 +37,7 @@ Your organisation might have specific carbon emissions commitments. In other cas
 
 ## Carbon benchmarking GOV․UK Forms
 
-As well as measuring a product’s CO₂ emissions, we can also compare it to alternatives. I’ve made some rough calculations using my most recent product launch as an example. [GOV.UK Forms](https://www.forms.service.gov.uk/) makes it easy to create accessible online forms for the UK government website, GOV․UK. without needing any technical knowledge.
+As well as measuring a product’s CO₂ emissions, we can also compare it to alternatives. I’ve made some rough calculations using my most recent product launch as an example. [GOV.UK Forms](https://www.forms.service.gov.uk/) makes it easy to create accessible online forms for the UK government website, GOV․UK without needing any technical knowledge.
 
 Before customers start using GOV․UK Forms, they are generally using PDF forms sent over email. Some big organisations in the UK government make you send in forms by post. I've compared carbon emissions across different ways of completing government forms. I've used these three estimates:
 
