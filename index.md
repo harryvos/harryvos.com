@@ -15,6 +15,8 @@ I'm an experienced product manager in Copenhagen 🇩🇰
 
 I help organisations create effective products, built for their customers. I like building products for environmental or social impact.
 
+Most recently, I scaled Maersk's products to help more customers to understand and reduce their supply chain emissions.
+
 In the UK government, I launched [GOV.UK Forms](https://www.forms.service.gov.uk/), coached GovTech startups on product management, and helped keep services running after Brexit.
 
 I care about how teams work as much as what teams build. To improve equity in product and design communities, I helped grow a mentoring programme for people from underrepresented groups, benchmarked community demographics and made community sessions more inclusive.
