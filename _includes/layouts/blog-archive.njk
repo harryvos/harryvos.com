@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or metadata.title }}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+
+    {#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
+    {#- <meta name="generator" content="{{ eleventy.generator }}"> #}
+
+    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/prism-diff.css' | url }}">
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+    {% if canonical %}
+    <link rel="canonical" href="{{ canonical }}" />
+    {% endif %}
+    <meta property="og:image" content="{{ image }}" />
+    <meta property="og:description" content="{{ description }}">
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+    </header>
+
+    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+
+      {{ content | safe }}
+    </main>
+
+    <footer class="footer">
+      <div class="notice">
+        This is a work in progress
+      </div>
+      <ul class="footer__list">
+          <li class="footer__list-item"><a class="link link--muted" href="https://www.linkedin.com/in/harryjvos/">LinkedIn</a></li>
+          <li class="footer__list-item"><a class="link link--muted" rel="me" href="https://mastodon.social/@vosageroll">Mastodon</a></li>
+          <li class="footer__list-item"><a class="link link--muted" href="https://www.harryvos.com/feed/feed.xml/">RSS</a></li>
+      </ul>
+    </footer>
+
+    <!-- Current page: {{ page.url | url }} -->
+  </body>
+</html>

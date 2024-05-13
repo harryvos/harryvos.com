@@ -2,11 +2,15 @@
 title: Harry Vos
 description: Experienced product manager in Copenhagen.
 date: 2022-11-04
+image: /img/harry-vos-portrait-2019.jpg
 tags:
 - index
 layout: layouts/home.njk
 canonical: "https://www.harryvos.com/"
 ---
+
+![Portrait of Harry Vos, 2019. Smiling white man in his late 20s with short dark brown hair and a trimmed beard. Wearing a smart beige sports jacket over a white t-shirt.](/img/harry-vos-portrait-2019.jpg "harry-vos-portrait-2019")
+
 I'm an experienced product manager in Copenhagen 🇩🇰
 
 I help organisations create effective products, built for their customers. I like building products for environmental or social impact.
@@ -17,4 +21,4 @@ I care about how teams work as much as what teams build. To improve equity in pr
 
 Previously, as a consultant, I advised executives across different sectors on product, digital transformation, customer experience and service design. I worked with EY and Accenture, as well as smaller agencies in London.
 
-Last updated: 2022-11-04
+Last updated: 13 May 2024
