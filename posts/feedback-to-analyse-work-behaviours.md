@@ -6,7 +6,7 @@ image: /img/screen-stickies-doing-well.JPEG
 tags:
 - post
 layout: layouts/post.njk
-canonical: "https://www.harryvos.com/posts/run-employee-demographics-survey/"
+canonical: "https://www.harryvos.com/posts/feedback-to-analyse-work-behaviours/"
 ---
 
 ![Sticky notes on a screen. Mostly out of focus. One reads, "I'm inclusive in decision-making and onboarding". Another, "Engaging everyone in the team"](/img/screen-stickies-doing-well.webp "Doing well stickies")
