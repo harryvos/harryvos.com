@@ -3,8 +3,6 @@ title: Harry Vos
 description: Experienced product manager in Copenhagen.
 date: 2022-11-04
 image: /img/harry-vos-portrait-2019.jpg
-tags:
-- index
 layout: layouts/home.njk
 canonical: "https://www.harryvos.com/"
 ---
