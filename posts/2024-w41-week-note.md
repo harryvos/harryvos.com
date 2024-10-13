@@ -1,5 +1,5 @@
 ---
-title: 2024-W41 week note. New job and a tech conference
+title: 2024-W41 week note. New job and a tech conference
 description: I started a new job, working on a product that helps tugboat crews reduce their emissions. I went to a tech conference.
 date: 2024-10-13
 image: /img/harry-vos-tugboat.webp
@@ -30,7 +30,7 @@ I think the app our team has built is brilliant and my first instinct is to want
 
 We’re facing some tricky technical decisions. I think it’s a situation where we’re probably better off breaking some agreed architectural principles. But, I still feel so new that it’s hard for me to form strong opinions on certain things. So I’m listening a lot to my colleagues. If we do end up building something that on the surface looks weird, I want us to ensure we document it. Why did we build it that way? Why did we break from the wider architecture? Teams read code around 10x more than writing code. So it’s important to make it understandable for our future selves, especially the weird parts.
 
-## Django Day Copenhagen 2024
+## Django Day Copenhagen 2024
 
 Last week, as part of my quest to contribute more to technical discussions, I went to [Django Day Copenhagen 2024](https://2024.djangoday.dk/). I found the talks pretty accessible to me as someone who has a less technical background, which I was grateful for.
 
